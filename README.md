@@ -10,19 +10,19 @@
 
     bash
     Copy code
-    git clone https://github.com/your_username/task-management-system.git
+    git clone https://github.com/h0shi-tech/task-manager.git
 
 Перейдите в каталог проекта:
 
     bash
     Copy code
-    cd task-management-system
+    cd task-manager
 
 Соберите проект с использованием компилятора C++ (например, g++):
 
     bash
     Copy code
-    g++ -o task_manager main.cpp task.cpp project.cpp
+    g++ -o task_manager main.cpp 
 Запустите приложение:
 
     bash
